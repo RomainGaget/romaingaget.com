@@ -1,2 +1,2 @@
 # romaingaget.com
-romaingaget.com WP Teme
+romaingaget.com WP Theme
